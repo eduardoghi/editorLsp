@@ -72,7 +72,8 @@
       "Data",
       "Funcao",
       "Lista",
-      "Numero"
+      "Numero",
+      "Tabela"
     ]
   },
   "SettingsToIdentifier" : {
